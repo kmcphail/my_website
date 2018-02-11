@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer http://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="35.6894875" lon="139.6917064">
+  <name>Tokyo</name>
+  <desc>Tokyo, Japan</desc>
+</wpt>
+<wpt lat="28.7040592" lon="77.1024902">
+  <name>Delhi</name>
+  <desc>Delhi, India</desc>
+</wpt>
+<wpt lat="31.2303904" lon="121.4737021">
+  <name>Shanghai</name>
+  <desc>Shanghai, China</desc>
+</wpt>
+<wpt lat="19.0759837" lon="72.8776559">
+  <name>Mumbai (Bombay)</name>
+  <desc>Mumbai, Maharashtra, India</desc>
+</wpt>
+<wpt lat="19.4326077" lon="-99.133208">
+  <name>Ciudad de M√©xico (Mexico City)</name>
+  <desc>Mexico City, CDMX, Mexico</desc>
+</wpt>
+<wpt lat="39.9041999" lon="116.4073963">
+  <name>Beijing</name>
+  <desc>Beijing, China</desc>
+</wpt>
+<wpt lat="34.665647" lon="135.533863">
+  <name>Kinki M.M.A. (Osaka)</name>
+  <desc>3 Chome-20-11 Higashiobase, Higashinari-ku, Ōsaka-shi, Ōsaka-fu 537-0024, Japan</desc>
+</wpt>
+<wpt lat="30.0444196" lon="31.2357116">
+  <name>Al-Qahirah (Cairo)</name>
+  <desc>Cairo, Cairo Governorate, Egypt</desc>
+</wpt>
+<wpt lat="40.6895314" lon="-74.1744624">
+  <name>New York-Newark</name>
+  <desc>Newark Liberty International Airport (EWR), 3 Brewster Rd, Newark, NJ 07114, USA</desc>
+</wpt>
+<wpt lat="23.810332" lon="90.4125181">
+  <name>Dhaka</name>
+  <desc>Dhaka, Bangladesh</desc>
+</wpt>
+<wpt lat="25.0700428" lon="67.2847875">
+  <name>Karachi</name>
+  <desc>Karachi, Pakistan</desc>
+</wpt>
+<wpt lat="-34.6036844" lon="-58.3815591">
+  <name>Buenos Aires</name>
+  <desc>Buenos Aires, Argentina</desc>
+</wpt>
+<wpt lat="22.572646" lon="88.363895">
+  <name>Kolkata (Calcutta)</name>
+  <desc>Kolkata, West Bengal, India</desc>
+</wpt>
+<wpt lat="41.0082376" lon="28.9783589">
+  <name>Istanbul</name>
+  <desc>Istanbul, Turkey</desc>
+</wpt>
+</gpx>
